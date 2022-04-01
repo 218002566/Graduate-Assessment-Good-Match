@@ -1,0 +1,472 @@
+Jill matches Jack 96%, good match
+Kimberly matches Billy 91%, good match
+Kimberly matches Tommy 91%, good match
+Kimberly matches Jack 81%, good match
+Kimberly matches Zack 81%, good match
+Billy matches Jason 71%
+Billy matches Tommy 70%
+Trini matches Tommy 70%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Trini matches Billy 61%
+Jill matches Tommy 51%
+Trini matches Jack 51%
+Trini matches Jason 52%
+Trini matches Zack 51%
+Kimberly matches Jason 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Billy 91%, good match
+Kimberly matches Tommy 91%, good match
+Kimberly matches Jack 81%, good match
+Kimberly matches Zack 81%, good match
+Billy matches Jason 71%
+Billy matches Tommy 70%
+Trini matches Tommy 70%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Trini matches Billy 61%
+Jill matches Tommy 51%
+Trini matches Jack 51%
+Trini matches Jason 52%
+Trini matches Zack 51%
+Kimberly matches Jason 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Billy 91%, good match
+Kimberly matches Tommy 91%, good match
+Kimberly matches Jack 81%, good match
+Kimberly matches Zack 81%, good match
+Billy matches Jason 71%
+Billy matches Tommy 70%
+Trini matches Tommy 70%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Trini matches Billy 61%
+Jill matches Tommy 51%
+Trini matches Jack 51%
+Trini matches Jason 52%
+Trini matches Zack 51%
+Kimberly matches Jason 20%
+__________________________________________________________________________________________________
+Hayden matches Jack 97%, good match
+Hayden matches Zack 97%, good match
+Jill matches Jack 96%, good match
+Kimberly matches Billy 91%, good match
+Kimberly matches Tommy 91%, good match
+Kimberly matches Zoe 99%, good match
+Hayden matches Jason 80%, good match
+Hayden matches Tommy 88%, good match
+Hayden matches Zoe 87%, good match
+Kimberly matches Jack 81%, good match
+Kimberly matches Zack 81%, good match
+Billy matches Jason 71%
+Billy matches Tommy 70%
+Hayden matches Billy 71%
+Trini matches Tommy 70%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Billy matches Zoe 69%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Trini matches Billy 61%
+Jill matches Tommy 51%
+Jill matches Zoe 50%
+Trini matches Jack 51%
+Trini matches Jason 52%
+Trini matches Zack 51%
+Trini matches Zoe 50%
+Kimberly matches Jason 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Billy 91%, good match
+Kimberly matches Tommy 91%, good match
+Kimberly matches Jack 81%, good match
+Kimberly matches Zack 81%, good match
+Billy matches Jason 71%
+Billy matches Tommy 70%
+Trini matches Tommy 70%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Trini matches Billy 61%
+Jill matches Tommy 51%
+Trini matches Jack 51%
+Trini matches Jason 52%
+Trini matches Zack 51%
+Kimberly matches Jason 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Billy 91%, good match
+Kimberly matches Tommy 91%, good match
+Kimberly matches Jack 81%, good match
+Kimberly matches Zack 81%, good match
+Billy matches Jason 71%
+Billy matches Tommy 70%
+Trini matches Tommy 70%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Trini matches Billy 61%
+Jill matches Tommy 51%
+Trini matches Jack 51%
+Trini matches Jason 52%
+Trini matches Zack 51%
+Kimberly matches Jason 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Billy 91%, good match
+Kimberly matches Tommy 91%, good match
+Kimberly matches Jack 81%, good match
+Kimberly matches Zack 81%, good match
+Billy matches Jason 71%
+Billy matches Tommy 70%
+Trini matches Tommy 70%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Trini matches Billy 61%
+Jill matches Tommy 51%
+Trini matches Jack 51%
+Trini matches Jason 52%
+Trini matches Zack 51%
+Kimberly matches Jason 20%
+__________________________________________________________________________________________________
+Jill matches Jason 95%, good match
+Jill matches Zack 94%, good match
+Kimberly matches Billy 91%, good match
+Kimberly matches Jason 90%, good match
+Kimberly matches Tommy 91%, good match
+Trini matches Tommy 86%, good match
+Billy matches Tommy 70%
+Jill matches Jack 76%
+Billy matches Billy 60%
+Billy matches Jason 69%
+Kimberly matches Jack 61%
+Kimberly matches Zack 61%
+Jill matches Billy 50%
+Jill matches Tommy 51%
+Billy matches Jack 41%
+Billy matches Zack 41%
+Trini matches Billy 41%
+Trini matches Jack 40%
+Trini matches Jason 41%
+Trini matches Zack 40%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches ZACK 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches ZACK 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches ZACK 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches ZACK 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches zACK 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches zACK 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches zACK 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches zACK 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+__________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+________________________________________________________________________________________________
+Jill matches Jack 96%, good match
+Kimberly matches Jack 91%, good match
+Kimberly matches Zack 91%, good match
+Billy matches Jason 71%
+Billy matches Tommy 71%
+Trini matches Billy 71%
+Trini matches Tommy 71%
+Billy matches Billy 62%
+Billy matches Jack 61%
+Billy matches Zack 61%
+Jill matches Billy 61%
+Jill matches Jason 61%
+Jill matches Zack 60%
+Jill matches Tommy 52%
+Trini matches Jack 52%
+Trini matches Jason 53%
+Trini matches Zack 52%
+Kimberly matches Billy 20%
+Kimberly matches Jason 20%
+Kimberly matches Tommy 20%
+________________________________________________________________________________________________
